@@ -2,3 +2,5 @@
 #echo "hello world"
 echo "date"
 echo "whoami"
+deploy in the dev env
+
