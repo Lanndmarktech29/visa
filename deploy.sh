@@ -3,5 +3,5 @@
 echo "date"
 echo "whoami"
 deploy in the dev env
-
+deploy to staging evn
 deployment4
